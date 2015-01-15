@@ -3,50 +3,28 @@ published: true
 layout: bookpage_ko-KR
 weight: 2
 category: Before You Begin
-title: What Is A Font?
+title: 폰트란 무엇일까요?
 ---
 
-&mdash; What makes typefaces different from hand-writing, calligraphy, lettering, and logos?
+&mdash; 어떤 점이 서체를 손글씨, 캘리그라피, 글자 도안이나 로고 디자인 같은 것들과 다르게 만들까요?
 
-The single biggest issue that makes type design different is the need for every glyph in the
-typeface to work with every other glyph. This often means that the design and spacing of each part
-of the typeface ends up being a series of careful compromises. These compromises mean that we can
-best think about typeface design as the creation of a wonderful collection of letters but not as a
-collection of wonderful letters. In other words we must think about the group and how it will
-perform together and prioritize this over any question of what is wonderful in a single letter.
+서체 디자인을 다르게 만드는 가장 큰 이슈는 서체에 포함된 모든 glyph들은 다른 glyph들과 함께 동작해야 한다는 것입니다. 이것은 서체 디자인의 각 단계에서 디자인과 배치가 철저한 조화의 연속이라는 것을 의미합니다. 이러한 점에서 서체 디자인은 훌륭한 글자들의 모음이 아니라 글자들의 훌륭한 모음을 만드는 것이라 할 수 있습니다. 다시 말하면 우리는 훌륭한 하나의 글자를 만드는 방법보다 글자들을 모으고 함께 동작하게 만드는 것을 더 중요하게 생각해야 합니다.
 
-This need to prioritize with the system rather than with any single part also leads to a need to
-analyse our design process on the level of the system. Characteristics which span letters become the
-things we want to focus on, particularly at the beginning of the design process.
+우리는 어떤 단일 부분에 대한 것보다 시스템에 대한 것을 우선해야 하고, 또한 우리의 디자인 과정을 시스템 레벨에서 분석하도록 해야할 필요가 있습니다. 디자인의 시작 단계에서는 글자에 연관된 특징들이 우리가 각별히 집중하는 부분들입니다.
 
-The other oddity in type design is that to a very large extent the forms we are designing are
-already significantly established. Our task as type designers is not so much to create an utterly
-new form but rather to create a new version of an existing form. This can perplex new type
-designers. Finding just the right amount to change in order to excite but not to alienate a reader
-is a tricky thing. Often designers get stuck in letter-specific thinking. This mistake can be easily
-avoided if you realize from the start that what is most meaningful in a typeface are the parts of it
-that repeat the most. Typeface design is not just about designing the characteristics applied to the
-common forms we all recognize, but also to the forms that occur most often.
+서체 디자인의 또 다른 특이한 점은 우리가 디자인하는 형태에서 많은 부분들이 이미 만들어져 있다는 것입니다. 서체 디자이너로서 우리의 할 일은 완전히 새로운 것을 창조하는 것이 아니라 이미 만들어져 있는 것들을 새롭게 만드는 일입니다. 많은 신입 서체 디자이너들이 이 점에 당황해 합니다. 글을 읽는 사람들을 불편하게 하지 않으면서 흥분되게 만드는 적당한 변화의 량을 찾는 것은 매우 어려운 일입니다. 서체 디자이너들은 종종 글자 한 개의 디자인에 대해서 오래 고민을 합니다. 이러한 실수는 가장 자주 반복되는 것이 가장 중요한 것이라는 것을 깨달으면 손쉽게 피할 수 있습니다. 서체 디자인은 우리 모두가 인지하는 공토의 형태에 적용되는 특징뿐 아니라 가장 자주 발생하는 형태에 대한 것입니다.
 
-It is also useful to recognize that these characteristics not only help to create a font’s voice or
-atmosphere, but also determine what the font will or will not be useful for, and they sometimes help
-determine the technological contexts for which a font is suitable.
+이것은 이러한 특징들이 단지 폰트의 어조나 분위기를 만드는데 도움을 줄뿐 아니라 폰트의 유용성이나 어떤 폰트가 적당한지 기술적인 부분을 판별할 수 있도록 도와줍니다.
 
-It may seem intimidating or excessively abstract to think about the design of a font in this way.
-However, getting used to these ideas is the key to a faster, more effective, and satisfying type
-design process.
+이러한 방법으로 서체 디자인에 대해서 생각하는 것은 너무 어렵거나 추상적으로 보일 수도 있습니다. 그러나 이러한 사고 방식에 익숙해지는 것이 보다 빠르고 효율적인 좋은 서체 디자인 프로세스로 가는 핵심입니다.
 
-Let’s begin by identifying the main systemic characteristics in type design.
+우선, 서체 디자인에서 주요 시스템적 특징을 알아봅시다. 
 
 ### Construction
 
 <img src="images/Construction2.png" alt>
 
-Construction refers to the underlying strokes that form a particular glyph. The kind of construction
-you use is arguably one of the most important questions to think about, because the construction
-effects so many of the remaining choices, particularly if your design is going to feel somewhat
-familiar to readers. In the example above, the white line inside the letters indicate the
-approximate construction suggested by the shape of the letters themselves.
+Construction은 특정 glyph의 기초가 되는 획을 의미합니다. 사용하고 있는 construction의 종류는 아마도 가장 중요한 질문 중 하나일겁니다. 왜냐하면 construction은 서체가 보는 이들에게 친숙하게 보이는지를 비롯하여 많은 다른 선택에 영향을 줍니다. 위의 예에서 letter들 안의 하얀 선은 글자 자체의 모양에서 추정되는 construction을 나타냅니다.
 
 <img src="images/AAA.png" alt>
 
