@@ -28,56 +28,41 @@ Construction은 특정 glyph의 기초가 되는 획을 의미합니다. 사용�
 
 <img src="images/AAA.png" alt>
 
-Construction refers to the structure of the underlying strokes that form a particular glyph. Perhaps
-you can imagine the glyph’s skeleton. The kind of construction to use is arguably one of the most
-important questions to think about, because the construction effects so many of the remaining
-choices, particularly if your design is going to feel somewhat familiar to readers.
+Construction은 특정 glyph을 형성하는 기저의 stroke의 구조를 반영한다. 아마 glyph의 뼈대라고 생각하면 될 것이다. construction은 많은 것들에 영향을 주고, 독자들이 익숙하게 느끼는 어떤 것을 만들기 위해서는 특히 중요하기 때문에 사용되는 construction의 종류는 아마 디자인에서 가장 중요한 것들 중 하나일 것이다.
 
-However, the way strokes end (the ‘terminals’) and the ‘serifs’ (see below) are generally not part
-of what is meant by ‘construction.’ Construction is the skeleton of the glyph, while rest &ndash;
-width, weight, terminals &ndash; are all parts of the flesh.
+그러나 stoke의 끝 (the 'terminals')이나 세리프 (아래 그림 참조)는 일반적으로 construction의 일부가 아니다. construction이 glyph의 뼈대라면 width, weight, terminals와 같은 것들은 그 위의 살을 이루는 것들이다.
 
-In the example above, the white line inside the letters indicate the approximate construction
-suggested by the shape of the letters themselves.
+위의 예제처럼 letter들 안의 하얀 선은 letter들의 모얌 자체에 따라 유추되는 대략적인 constructioin을 나타낸다.
 
 <img src="images/AAA.png" alt>
 
-### Proportion of X-height to Cap-height
+### Cap-height에 대한 X-height의 비율
 
 <img src="images/Prop.png" alt>
 
-The letters on the left come from [Playfair Display], which has a large x-height relative to its
-cap-height. The letters on the right are from [EB Garamond], which has a smaller x-height. In the
-sample above, the size of the H has been adjusted so that they match.
+왼쪽의 letter들은 cap-height에 비해서 큰 x-height를 가지는 [Playfair Display] 이다. 오른쪽의 letter들은 보다 작은 x-height를 가지는 [EB Garamond]이다. 위의 샘플을 보면 잘 어울릴 수 있도록 H의 크기가 조정되어 있다.
 
 ### Ascender Height
 
 <img src="images/Ascender%20height.png" alt>
 
-In the example above, the x-heights have been matched in order to illustrate the relative difference
-in ascender heights.
+위의 예를 보면 ascender height의 상대적인 차이를 보여주기 위해서 x-height들이 맞춰져 있다.
 
-Ascenders usually exceed the cap-height by at least a little, especially in text designs. In some
-cases, however, they can match or even be lower than the cap-height. Longer ascenders can add
-elegance to the look of a typeface. They often go with smaller x-height.
+보통 ascender는 cap-height를 조금 넘으며 특히 텍스트 디자인에서 그렇다. 그러나 어떤 경우에는 cap-height보다 같거나 작게 맞춰질 수도 있다. 긴 ascender는 서체의 모양에 우아함을 더한다. 따라서 자주 보다 작은 x-height를 사용한다.
 
 ### Descender depth
 
 <img src="images/Descender%20depth.png" alt>
 
-Like ascenders, descenders that are long can feel elegant. 
+ascender와 마찬가지로, 긴 descender는 보다 우아하게 느껴진다.
 
-Taken together, long ascenders and descenders can become difficult to manage. If the typeface will
-be used with small line heights, the elongation means letter can collide across rows of text.
+함께 생각하면, 긴 ascender와 descender는 다루기 어려울 수도 있다. 만약 서체가 낮은 줄 높이에서 사용된다면, 연장 부분은 글자들이 텍스트의 행을 가로질러 충돌할 수도 있다는 것을 의미한다.
 
 ## Width
 
 <img src="images/width.png" alt>
 
-The width of a type design will alter not just how it feels but also what it is useful for. The
-example on the right is from a text face. The example on the left is from a display design meant to
-be eye catching. Letters that are more narrow than the text face example are also possible and can
-be used to save space or to fit more text in a smaller space.
+서체 디자인에서 width는 느낌을 바꿀뿐 아니라 용도에도 영향을 준다. 오른쪽은 예는 text face에서 가지고 온 것이고, 왼쪽은 시선을 끌기 위한 디스플레이 디자인에서 가지고 온 것이다. 좁은 공간에 보다 많은 내용을 넣거나 공간을 절약하기 위해서 text face 예제보다 더 좁은 letter들을 사용할 수도 있다.
 
 ### Width regularity versus variability
 
