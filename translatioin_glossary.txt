@@ -1,0 +1,5 @@
+font: 폰트, 글꼴, 활자
+typeface: 서체
+text: 텍스트, 글
+glyph: 글리프, 모양, 형태
+
