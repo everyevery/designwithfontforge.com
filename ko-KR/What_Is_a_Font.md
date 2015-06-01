@@ -64,10 +64,9 @@ ascender와 마찬가지로, 긴 descender는 보다 우아하게 느껴진다.
 
 서체 디자인에서 width는 느낌을 바꿀뿐 아니라 용도에도 영향을 준다. 오른쪽은 예는 text face에서 가지고 온 것이고, 왼쪽은 시선을 끌기 위한 디스플레이 디자인에서 가지고 온 것이다. 좁은 공간에 보다 많은 내용을 넣거나 공간을 절약하기 위해서 text face 예제보다 더 좁은 letter들을 사용할 수도 있다.
 
-### Width regularity versus variability
+### 고정폭 vs 가변폭
 
-The letters in the top row of this example show a greater variety of width than do the letters in
-the bottom row.
+아래 예에서 윗 열의 글자들은 아래 열의 글자들보다 다양한 글자폭을 보여준다.
 
 <img src="images/Width%20regularity.png" alt>
 
@@ -81,19 +80,11 @@ the bottom row.
 
 ### Contrast
 
-Contrast refers to how much variation in stroke width is found within a glyph. Notice in the below
-two ‘O’ glyphs that the one on the left has much greater variability in line thickness between the top
-and sides of the glyph. Both glyphs have some contrast, but the one on the left has much more than
-the one on the right.
+Contrast는 glyph을 만드는 획의 폭의 가변 정도를 뜻한다. 아래 두 'O' glyph에서 왼쪽 글자가 위와 옆의 선에서 훨씬 큰 변화를 보여준다. 두 glyph은 동일한 contrast를 가지고 있지만 왼쪽이 오른쪽보다 contrast가 훨씬 크게 보인다. 
 
 <img src="images/Contrast.png" alt>
 
-Type with consistent weight (stroke width) in its letterforms or no visible contrast produces a
-sheer distinction from uncontrasted type. Like the choice between serifs or sans-serifs, contrast is
-an early choice of type design. It is interesting to note that ‘slab’ serif designs generally use
-consistent stroke width in their letters, and that the design of slab serifs is not merely about the
-serif, as it sounds! It must be remembered that the rules of perception apply (see [“Trusting your
-eyes”]) &ndash; contrast is about how the weight looks but not how it measures out to be.
+글자의 형태에서 획의 두께가 일정하거나 시각적인 contrast가 없으면 uncontrasted 글자로부터 보다 큰 차이를 만든다. serifs와 sans-serifs의 선택과 마찬가지로, contrast는 서체 디자인에서 초기에 결정이 필요하다. 'slab'(두꺼운) serif의 디자인은 단지 serif에 대한 것만이 아닌데도 보통 일정한 폭의 획을 사용하는 것은 재미있는 점이다. 사람들이 글자 형태를 인지하는 규칙은 반드시 기억해야 하는 것이다. (["Trusting your eyes"]를 보세요) &ndash; contrast는 단순히 wegith를 측정하느냐가 아니라 weight가 어떻게 보이냐에 대한 것이다.
 
 ### Angle of contrast
 
