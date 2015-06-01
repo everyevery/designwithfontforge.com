@@ -84,7 +84,8 @@ Contrast는 glyph을 만드는 획의 폭의 가변 정도를 뜻한다. 아래 
 
 <img src="images/Contrast.png" alt>
 
-글자의 형태에서 획의 두께가 일정하거나 시각적인 contrast가 없으면 uncontrasted 글자로부터 보다 큰 차이를 만든다. serifs와 sans-serifs의 선택과 마찬가지로, contrast는 서체 디자인에서 초기에 결정이 필요하다. 'slab'(두꺼운) serif의 디자인은 단지 serif에 대한 것만이 아닌데도 보통 일정한 폭의 획을 사용하는 것은 재미있는 점이다. 사람들이 글자 형태를 인지하는 규칙은 반드시 기억해야 하는 것이다. (["Trusting your eyes"]를 보세요) &ndash; contrast는 단순히 wegith를 측정하느냐가 아니라 weight가 어떻게 보이냐에 대한 것이다.
+글자의 형태에서 획의 두께가 일정하거나 시각적인 contrast가 없으면 uncontrasted 글자로부터 보다 큰 차이를 만든다. serifs와 sans-serifs의 선택과 마찬가지로, contrast는 서체 디자인에서 초기에 결정이 필요하다. 'slab'(두꺼운) serif의 디자인은 단지 serif에 대한 것만이 아닌데도 보통 일정한 폭의 획을 사용하는 것은 재미있는 점이다. 사람들이 글자 형태를 인지하는 규칙은 반드시 기억해야 하는 것이다. ([“Trusting your
+eyes”] 를 보세요) &ndash; contrast는 단순히 wegith를 측정하느냐가 아니라 weight가 어떻게 보이냐에 대한 것이다.
 
 ### Angle of contrast
 
